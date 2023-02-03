@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Next.JS**
 
-- 👨‍💻 All of my projects are available at [https://israelarvizu.com/](www.israelarvizu.com)
+- 👨‍💻 All of my projects are available at [israelarvizu.com](https://israelarvizu.com/)
 
 - 📫 How to reach me **israelarvizuofficial@gmail.com**
 
