@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **TypeScript and Angular**
 
+- 💼 I am currently interning at ShowingGuide! 
+
 - 👨‍💻 All of my projects are available at [israelarvizu.com](https://israelarvizu.com/)
 
 - 📫 How to reach me **israelarvizuofficial@gmail.com**
